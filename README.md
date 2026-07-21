@@ -1,2 +1,12 @@
 # job_application_simulator-
-This is a simulation of a job spplication website, where it is constructed with backend Java and frontend React, making it a fullstack project. 
+
+A full-stack job application tracker built with React (frontend) and Java (backend).
+
+## Structure
+- `jobapplication_frontend/` — React frontend
+- `jobapplication_backend/` — Java backend
+
+## Tech Stack
+- Frontend: React
+- Backend: Java (Spring Boot / whatever you used)
+
